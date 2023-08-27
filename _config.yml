@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "dongyup2 blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "dongyup2"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "dongyup2 blog"
   location         : "Somewhere"
-  email            :
+  email            : "dlehdduq22@naver.com"
   links:
     - label: "dlehdduq22@naver.com"
       icon: "fas fa-fw fa-envelope-square"
